@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="agro_background">#09090B</color>
+    <color name="agro_surface">#18181B</color>
+    <color name="agro_accent">#10B981</color>
+    <color name="agro_accent_dark">#064E3B</color>
+    <color name="agro_text_primary">#FAFAFA</color>
+    <color name="agro_text_secondary">#A1A1AA</color>
+</resources>

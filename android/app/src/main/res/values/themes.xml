@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.AgroPulse" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/agro_accent</item>
+        <item name="colorPrimaryVariant">@color/agro_accent_dark</item>
+        <item name="colorOnPrimary">@color/agro_text_primary</item>
+        <item name="android:statusBarColor">@color/agro_background</item>
+        <item name="android:navigationBarColor">@color/agro_background</item>
+        <item name="android:windowBackground">@color/agro_background</item>
+    </style>
+
+    <style name="Theme.AgroPulse.Splash" parent="Theme.AgroPulse">
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+</resources>

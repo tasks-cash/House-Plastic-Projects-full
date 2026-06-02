@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "6a11524ad958080adae6df0f"
+  },
+  "email": "owner@tasks.cash",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-05-23T07:07:54.266Z"
+  },
+  "isActive": true,
+  "name": "Owner",
+  "passwordHash": "$2a$12$4k3/cpavaHtWgysQOqukwOhCNr5V.OzJcKpLXM3hgKUlXBj/k7uuS",
+  "phone": "+213000000000",
+  "role": "owner",
+  "updatedAt": {
+    "$date": "2026-05-23T07:59:08.987Z"
+  },
+  "username": "owner"
+},
+{
+  "_id": {
+    "$oid": "6a115e4c90b5576be7b2d8a3"
+  },
+  "name": "Admin",
+  "email": "admin@tasks.cash",
+  "username": "admin",
+  "passwordHash": "$2a$12$4k3/cpavaHtWgysQOqukwOhCNr5V.OzJcKpLXM3hgKUlXBj/k7uuS",
+  "role": "admin",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-05-23T07:59:08.997Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T07:59:08.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a115e4d90b5576be7b2d8a6"
+  },
+  "name": "Manager",
+  "email": "manager@tasks.cash",
+  "username": "manager",
+  "passwordHash": "$2a$12$4k3/cpavaHtWgysQOqukwOhCNr5V.OzJcKpLXM3hgKUlXBj/k7uuS",
+  "role": "manager",
+  "isActive": true,
+  "createdAt": {
+    "$date": "2026-05-23T07:59:09.004Z"
+  },
+  "updatedAt": {
+    "$date": "2026-05-23T07:59:09.004Z"
+  },
+  "__v": 0
+}]

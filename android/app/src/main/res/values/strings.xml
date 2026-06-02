@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AgroPulse</string>
+    <string name="splash_logo_agro">Agro</string>
+    <string name="splash_logo_pulse">Pulse</string>
+    <string name="splash_tagline">Greenhouse Finance Management</string>
+    <string name="splash_logo">AgroPulse</string>
+    <string name="error_offline_title">You\'re offline</string>
+    <string name="error_offline_message">Unable to reach AgroPulse. Check your internet connection and try again.</string>
+    <string name="retry">Try again</string>
+</resources>
